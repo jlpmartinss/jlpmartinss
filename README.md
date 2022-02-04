@@ -16,4 +16,8 @@
 
 </div> </br>
 
+- 🔭 I’m currently working on Java / Javascript
+- 🌱 I’m currently learning React Native / React Js
+- 👯 I’m looking to get some experience on Software Development
+- 📫 How to reach me: jlpmartins98@gmail.com or joao-luis18@hotmail.com
 
