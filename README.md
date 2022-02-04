@@ -1,6 +1,11 @@
 
 ### Hi there! I'm João Martins! 👋
-
+- 🔭 I’m currently working on Java / Javascript
+- 🌱 I’m currently learning React Native / React Js
+- 👯 I’m looking to get some experience on Software Development
+- 📫 How to reach me: jlpmartins98@gmail.com
+</br>
+</br>
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jlpmartinss&show_icons=true&theme=radical)
 
@@ -16,8 +21,4 @@
 
 </div> </br>
 
-- 🔭 I’m currently working on Java / Javascript
-- 🌱 I’m currently learning React Native / React Js
-- 👯 I’m looking to get some experience on Software Development
-- 📫 How to reach me: jlpmartins98@gmail.com or joao-luis18@hotmail.com
 
