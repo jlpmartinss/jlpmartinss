@@ -5,7 +5,6 @@
 - 👯 I’m looking to get some experience on Software Development
 - 📫 How to reach me: jlpmartins98@gmail.com
 </br>
-</br>
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jlpmartinss&show_icons=true&theme=radical)
 
