@@ -1,6 +1,6 @@
 
 ### Hi there! I'm João Martins! 👋
-- 🔭 I’m currently working on Java / Javascript
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning React Native / React Js
 - 👯 I’m looking to get some experience on Software Development
 - 📫 How to reach me: jlpmartins98@gmail.com
