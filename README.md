@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Web Development**
+ 🔭 I’m currently working on **Mobile Development**
  
- 🌱 I’m currently learning **Next, Typescript**
+ 🌱 I’m currently learning **Android Studio, Kotlin**
 
  🎸 Fun fact **I'm also a guitar teacher and musician!**
 
@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,figma,tailwind,mui" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,supabase,mongodb,nextjs,mysql,java" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react,html,css,vscode,github,git,figma,tailwind,mui" />
+    <img src="https://skillicons.dev/icons?i=androidnodejs,javascript,typescript,express,firebase,supabase,mongodb,nextjs,mysql,java" /><br>
 </div>
 
 <br/>
