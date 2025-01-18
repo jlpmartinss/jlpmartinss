@@ -8,9 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Mobile Development**
- 
- 🌱 I’m currently learning **Android Studio, Kotlin**
+ 🔭 I’m currently working on **Web and Mobile Development with React and React native**
 
  🎸 Fun fact **I'm also a guitar teacher and musician!**
 
@@ -33,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react,html,css,vscode,github,git,figma,tailwind,mui" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,supabase,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,kotlin,java,tailwind,mui" />
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,vscode,github,git,figma,androidstudio" /><br>
 </div>
 
 <br/>
